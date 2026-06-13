@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:262626&height=180&section=header&text=Sandi%20Aditya%20Ramdani&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=35" />
-
 # Hi, I'm Sandi Aditya Ramdani 👋
 
 ### IT Programmer & Data Analyst
