@@ -30,18 +30,6 @@ I build practical digital solutions through web applications, data processing, I
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **Asia FaceLog** | Attendance management system with employee data, shift rules, scan logs, and Excel export | Laravel, MySQL, Tailwind |
-| **QC Label Print App** | Label printing system with print logs, product label management, and dashboard | Laravel, MySQL |
-| **AI Chat App** | Chat application with Laravel backend, Flutter frontend, and OpenAI integration | Laravel, Flutter, OpenAI |
-| **APP Teknik** | Engineering technician request and maintenance reporting system using RFID | Laravel, RFID |
-| **IoT Monitoring Systems** | ESP32-based monitoring and control projects for sensors, automation, and dashboards | ESP32, Arduino, Blynk |
-
----
-
 ## 📊 Statistics Preview
 
 <div align="center">
