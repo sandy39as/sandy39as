@@ -1,10 +1,15 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:262626&height=180&section=header&text=Sandi%20Aditya%20Ramdani&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=35" />
+
 # Hi, I'm Sandi Aditya Ramdani 👋
 
 ### IT Programmer & Data Analyst
 
 I build practical digital solutions through web applications, data processing, IT support, and IoT-based systems.
+
+🌐 **Portfolio Website:**  
+[https://hiradev.com/sandiaditya/](https://hiradev.com/sandiaditya/)
 
 </div>
 
@@ -17,15 +22,6 @@ I build practical digital solutions through web applications, data processing, I
 - 🏢 Experienced in building internal business systems and operational dashboards
 - ⚙️ Interested in automation, database systems, and real-world digital solutions
 - 📍 Indonesia
-
----
-
-<div align="center">
-
-🌐 **Portfolio Website:**  
-[https://hiradev.com/sandiaditya/](https://hiradev.com/sandiaditya/)
-
-</div>
 
 ---
 
@@ -85,6 +81,6 @@ I build practical digital solutions through web applications, data processing, I
 
 ### "Technology is most valuable when it solves real problems and makes work easier."
 
-<img src="https://komarev.com/ghpvc/?username=sandy39as&style=flat-square&color=blue" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=sandy39as&style=flat-square&color=grey" alt="Profile views" />
 
 </div>
