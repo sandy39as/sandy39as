@@ -19,7 +19,6 @@ I build practical digital solutions through web applications, data processing, I
 - 💻 Focused on web development, data analysis, IT support, and IoT
 - 🏢 Experienced in building internal business systems and operational dashboards
 - ⚙️ Interested in automation, database systems, and real-world digital solutions
-- 📍 Indonesia
 
 ---
 
