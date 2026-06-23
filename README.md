@@ -58,10 +58,6 @@ I build practical digital solutions through web applications, data processing, I
   <img src="https://img.shields.io/badge/Portfolio-hiradev.com%2Fsandiaditya-ffffff?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=111111" />
 </a>
 
-<a href="https://github.com/sandy39as">
-  <img src="https://img.shields.io/badge/GitHub-sandy39as-181717?style=for-the-badge&logo=github" />
-</a>
-
 <a href="https://www.linkedin.com/in/sandiadityaramdani/">
   <img src="https://img.shields.io/badge/LinkedIn-Sandi%20Aditya%20Ramdani-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
