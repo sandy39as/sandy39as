@@ -13,7 +13,7 @@ I build practical digital solutions through web applications, data processing, I
 
 ---
 
-## 🚀 About Me
+## 🚀 About M
 
 - 🎓 Information Systems graduate
 - 💻 Focused on web development, data analysis, IT support, and IoT
