@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Sandi Aditya Ramdani 👋
-aa
+
 ### IT Programmer & Data Analyst
 
 I build practical digital solutions through web applications, data processing, IT support, and IoT-based systems.
