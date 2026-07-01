@@ -3,7 +3,7 @@
 # Hi, I'm Sandi Aditya Ramdani 👋
 
 ### IT Programmer & Data Analyst
-a
+
 I build practical digital solutions through web applications, data processing, IT support, and IoT-based systems.
 
 🌐 **Portfolio Website:**  
