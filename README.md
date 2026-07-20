@@ -13,15 +13,6 @@ I build practical digital solutions through web applications, data processing, I
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Information Systems graduate
-- 💻 Focused on web development, data analysis, IT support, and IoT
-- 🏢 Experienced in building internal business systems and operational dashboards
-- ⚙️ Interested in automation, database systems, and real-world digital solutions
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
