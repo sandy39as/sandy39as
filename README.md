@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner Animasi dari Repository GitHub Kamu -->
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/main/nama-file-gif-kamu.gif" width="100%" />
+<!-- Banner GIF dari repository kamu -->
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" width="100%" alt="Developer Animation" />
 
 </div>
 
@@ -37,6 +37,8 @@ My name is Sandi Aditya Ramdani. I am an IT Programmer and Data Analyst. I build
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sandiadityaramdani/).
 - 📸 Follow my Instagram at [@vsxvlw](https://www.instagram.com/vsxvlw/?hl=id).
 - 💡 *"Technology is most valuable when it solves real problems and makes work easier."*
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sandy39as&style=flat-square&color=38bdf8" alt="Profile views" />
