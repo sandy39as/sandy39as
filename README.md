@@ -35,7 +35,7 @@ An IT Programmer and Data Analyst who spends days translating black coffee into 
 
 - **IoT & Tools:**  
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-IoT-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-VCS-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-IDE-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio-IDE-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="VS Community"/></a>
 
