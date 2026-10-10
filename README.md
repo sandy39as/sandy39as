@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Dua GIF Berdampingan (Kiri: user.gif, Kanan: patrick.gif) -->
-<table align="center" border="0">
   <tr>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/sandy39as/sandy39as/main/user.gif" width="300" alt="Developer Animation" />
@@ -10,7 +9,6 @@
       <img src="https://raw.githubusercontent.com/sandy39as/sandy39as/main/patrickk.gif" width="300" alt="Patrick Animation" />
     </td>
   </tr>
-</table>
 
 </div>
 
