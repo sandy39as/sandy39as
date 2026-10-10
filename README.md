@@ -7,7 +7,7 @@
       <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" width="300" alt="Developer Animation" />
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/sandy39as/sandy39as/main/patrick.gif" width="300" alt="Patrick Animation" />
+      <img src="https://raw.githubusercontent.com/sandy39as/sandy39as/main/patrickk.gif" width="300" alt="Patrick Animation" />
     </td>
   </tr>
 </table>
