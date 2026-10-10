@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" width="100%" alt="Developer Animation" />
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" width="350" alt="Developer Animation" />
 
 </div>
 
