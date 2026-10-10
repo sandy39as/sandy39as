@@ -1,16 +1,6 @@
 <div align="center">
 
-<!-- Dua GIF Berdampingan dengan Tinggi Seragam -->
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" height="150" alt="Developer Animation" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/sandy39as/sandy39as/main/patrick.gif" height="150" alt="Patrick Animation" />
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" width="100%" alt="Developer Animation" />
 
 </div>
 
