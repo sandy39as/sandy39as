@@ -36,7 +36,6 @@ My name is Sandi Aditya Ramdani. I am an IT Programmer and Data Analyst. I build
 - 🌐 You can visit my portfolio website at [hiradev.com/sandiaditya](https://hiradev.com/sandiaditya/).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sandiadityaramdani/).
 - 📸 Follow my Instagram at [@vsxvlw](https://www.instagram.com/vsxvlw/?hl=id).
-- 💡 *"Technology is most valuable when it solves real problems and makes work easier."*
 
 <br>
 
