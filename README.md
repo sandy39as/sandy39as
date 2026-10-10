@@ -4,8 +4,6 @@
 
 </div>
 
-# Hi! 👋
-
 My name is Sandi Aditya Ramdani. I am an IT Programmer and Data Analyst. I build practical digital solutions through web applications, data processing, IT support, and IoT-based systems.
 
 ---
