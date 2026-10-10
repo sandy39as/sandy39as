@@ -1,14 +1,15 @@
 <div align="center">
 
-<!-- Dua GIF Berdampingan (Kiri: user.gif, Kanan: patrick.gif) -->
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/sandy39as/sandy39as/main/user.gif" width="300" alt="Developer Animation" />
+    <td align="left" width="50%" style="padding: 0; border: 0;">
+      <img src="https://raw.githubusercontent.com/sandy39as/sandy39as/main/user.gif" width="100%" alt="Developer Animation" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/sandy39as/sandy39as/main/patrickk.gif" width="300" alt="Patrick Animation" />
+    <td align="right" width="50%" style="padding: 0; border: 0;">
+      <img src="https://raw.githubusercontent.com/sandy39as/sandy39as/main/patrickk.gif" width="100%" alt="Patrick Animation" />
     </td>
   </tr>
+</table>
 
 </div>
 
