@@ -1,11 +1,6 @@
-<div align="center">
-
-<!-- Banner GIF dari repository kamu -->
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/main/github-profile-programmer.png" width="500" alt="Programmer Setup" />
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" width="400" alt="Developer Animation" />
 </p>
-
-</div>
 
 # Hi! 👋
 
