@@ -1,13 +1,12 @@
 <div align="center">
 
-<!-- Banner Animasi GIF Baru yang Stabil dan Aktif -->
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software-Engineering.gif" width="100%" />
+# Halo, Saya Sandi Aditya Ramdani 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=IT+Programmer+%26+Data+Analyst;Web+Developer+%7C+Laravel+%26+PHP;IoT+%26+Data+Processing+Enthusiast" alt="Typing SVG" />
+</p>
 
 </div>
-
-# Hi! 👋
-
-My name is Sandi Aditya Ramdani. I am an IT Programmer and Data Analyst. I build practical digital solutions through web applications, data processing, IT support, and IoT-based systems.
 
 ---
 
@@ -38,6 +37,8 @@ My name is Sandi Aditya Ramdani. I am an IT Programmer and Data Analyst. I build
 * 📸 Follow my Instagram at [@vsxvlw](https://www.instagram.com/vsxvlw/?hl=id).
 * 💡 *"Technology is most valuable when it solves real problems and makes work easier."*
 
+<br>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandy39as&style=flat-square&color=38bdf8" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sandy39as&color=38bdf8&style=flat-square" alt="sandy39as" />
 </div>
