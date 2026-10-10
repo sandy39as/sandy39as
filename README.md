@@ -1,8 +1,20 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" width="350" alt="Developer Animation" />
+<!-- Tabel untuk dua GIF berdampingan (Kiri dan Kanan) dengan ukuran sama -->
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" width="300" alt="Animation 1" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="300" alt="Animation 2" />
+    </td>
+  </tr>
+</table>
 
 </div>
+
+# Hi! 👋
 
 My name is Sandi Aditya Ramdani. I am an IT Programmer and Data Analyst. I build practical digital solutions through web applications, data processing, IT support, and IoT-based systems.
 
@@ -34,6 +46,7 @@ My name is Sandi Aditya Ramdani. I am an IT Programmer and Data Analyst. I build
 - 🌐 You can visit my portfolio website at [hiradev.com/sandiaditya](https://hiradev.com/sandiaditya/).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sandiadityaramdani/).
 - 📸 Follow my Instagram at [@vsxvlw](https://www.instagram.com/vsxvlw/?hl=id).
+- 💡 *"Technology is most valuable when it solves real problems and makes work easier."*
 
 <br>
 
