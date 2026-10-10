@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Tabel untuk dua GIF berdampingan (Kiri dan Kanan) dengan ukuran sama -->
+<!-- Dua GIF Berdampingan (Kiri dari Potential17, Kanan dari repository kamu) -->
 <table align="center" border="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" width="300" alt="Animation 1" />
+      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" width="300" alt="Developer Animation" />
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="300" alt="Animation 2" />
+      <img src="https://raw.githubusercontent.com/sandy39as/sandy39as/master/patrick.gif" width="300" alt="Patrick Animation" />
     </td>
   </tr>
 </table>
