@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Banner Animasi GIF di Bagian Atas -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506587ee.gif" width="100%" />
+<!-- Banner Animasi GIF Baru yang Stabil dan Aktif -->
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software-Engineering.gif" width="100%" />
 
 </div>
 
 # Hi! 👋
 
-My name is Sandi Aditya Ramdani. I am an IT Programmer and Data Analyst[cite: 1]. I build practical digital solutions through web applications, data processing, IT support, and IoT-based systems[cite: 1].
+My name is Sandi Aditya Ramdani. I am an IT Programmer and Data Analyst. I build practical digital solutions through web applications, data processing, IT support, and IoT-based systems.
 
 ---
 
@@ -33,7 +33,11 @@ My name is Sandi Aditya Ramdani. I am an IT Programmer and Data Analyst[cite: 1]
 
 ## Just a section for everyone 🚶‍♂️
 
-* 🌐 You can visit my portfolio website at [hiradev.com/sandiaditya](https://hiradev.com/sandiaditya/)[cite: 1].
-* 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sandiadityaramdani/)[cite: 1].
-* 📸 Follow my Instagram at [@vsxvlw](https://www.instagram.com/vsxvlw/?hl=id)[cite: 1].
+* 🌐 You can visit my portfolio website at [hiradev.com/sandiaditya](https://hiradev.com/sandiaditya/).
+* 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sandiadityaramdani/).
+* 📸 Follow my Instagram at [@vsxvlw](https://www.instagram.com/vsxvlw/?hl=id).
 * 💡 *"Technology is most valuable when it solves real problems and makes work easier."*
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandy39as&style=flat-square&color=38bdf8" alt="Profile views" />
+</div>
