@@ -14,7 +14,7 @@
 
 </div>
 
-# Hi!
+# Hi! 👋
 
 My name is Sandi Aditya Ramdani. I am an IT Programmer and Data Analyst. I build practical digital solutions through web applications, data processing, IT support, and IoT-based systems.
 
@@ -38,6 +38,7 @@ My name is Sandi Aditya Ramdani. I am an IT Programmer and Data Analyst. I build
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-IoT-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-VCS-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-IDE-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio-IDE-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="VS Community"/></a>
 
 ---
 
@@ -50,5 +51,5 @@ My name is Sandi Aditya Ramdani. I am an IT Programmer and Data Analyst. I build
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandy39as&style=flat-square&color=38bdf8" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sandy39as&color=38bdf8&style=flat-square" alt="Profile views" />
 </div>
