@@ -16,6 +16,7 @@
 # Hi! 👋
 
 An IT Programmer and Data Analyst who spends days translating black coffee into clean code, building web applications, handling databases, and tinkering with IoT systems that somehow work on the first try (very rarely).
+
 ---
 
 ## What I do (What I work with) 🔨
