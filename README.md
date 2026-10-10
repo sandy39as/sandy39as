@@ -43,9 +43,9 @@ An IT Programmer and Data Analyst who spends days translating black coffee into 
 
 ## Just a section for everyone 🚶‍♂️
 
-- 🌐 You can visit my portfolio website at [hiradev.com/sandiaditya](https://hiradev.com/sandiaditya/).
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sandiadityaramdani/).
-- 📸 Follow my Instagram at [@vsxvlw](https://www.instagram.com/vsxvlw/?hl=id).
+- 🌐 Feel free to check out my portfolio at hiradev.com/sandiaditya (Warning: May contain excessive amounts of caffeine).
+- 💼 Let's connect on LinkedIn (I promise I only post cool tech stuff, not corporate motivation).
+- 📸 Follow my Instagram at @vsxvlw (Where bugs don't exist, only aesthetics).
 
 <br>
 
