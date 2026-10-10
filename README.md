@@ -1,6 +1,8 @@
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" width="400" alt="Developer Animation" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" width="100%" alt="Developer Animation" />
+
+</div>
 
 # Hi! 👋
 
@@ -13,6 +15,7 @@ My name is Sandi Aditya Ramdani. I am an IT Programmer and Data Analyst. I build
 - **Backend & Web:**  
   <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-WEB-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/></a>
   <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-WEB-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/ASP.NET-WEB-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-DB-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></a>
 
 - **Frontend & Mobile:**  
