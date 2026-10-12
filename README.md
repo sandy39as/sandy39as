@@ -15,7 +15,7 @@
 
 # Hi! 👋
 
-An IT Programmer and Data Analyst who turns black coffee and non-stop music into clean code, building web applications, handling databases, and debugging IoT systems to the rhythm of a 24/7 playlist.
+An IT Programmer and Data Analyst who turns black coffee and non-stop music into clean code, building web applications, handling databases, and debugging IoT systems to the rhythm of a 24/7 playlist—that somehow work on the first try (very rarely).
 
 ---
 
